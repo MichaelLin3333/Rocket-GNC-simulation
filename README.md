@@ -1,5 +1,9 @@
 # Rocket-GNC-simulation
 
+![](1.png)
+![](main.png)
+![](LQR.png)
+
 MATLAB code on model2.m
 
 Simulink code on simulink_model_n.slxc
